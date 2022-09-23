@@ -1,2 +1,8 @@
 # Rockfall-Barrier
- Dessin et cubature d'un merlon pare-bloc made in RTM !
+
+<div id="header" align="center">
+  <img src="rockfall-barrier_icon.png" width="48"/>
+</div>
+
+---
+
